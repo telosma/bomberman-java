@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/Game.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/pathfinding/Node.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/pathfinding/PathFinding.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/level/Level.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/entity/mob/Player.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/Main.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/input/Keyboard.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/score/Score.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/graphics/Screen.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman.ucls</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/sound/Sound.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/entity/flame/Flame.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/entity/bomb/Bomb.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/entity/creep/Creep.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/font/Font.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/entity/coin/Coin.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/level/tile/FloorTile.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/level/tile/Tile.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/OOP/CacBanTestBomberman/6-12_9-4/Bomberman/src/bomberman/graphics/Sprite.java</file>
+        </group>
+    </open-files>
+</project-private>
